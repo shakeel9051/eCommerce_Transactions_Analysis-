@@ -1,0 +1,5 @@
+CustomerID,Lookalike1,Score1,Lookalike2,Score2,Lookalike3,Score3
+C0001,C0015,0.85,C0022,0.82,C0034,0.79
+C0002,C0032,0.75,C0045,0.78,C0056,0.74
+C0003,C0078,0.88,C0089,0.85,C0092,0.82
+Ellipsis,Ellipsis,Ellipsis,Ellipsis,Ellipsis,Ellipsis,Ellipsis
